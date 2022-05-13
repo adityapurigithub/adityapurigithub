@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @adityapurigithub
+- 👋 Hi, I’m @Aditya Puri
 - 👀 I’m interested in FULL STACK WEB DEVELOPMENT
 - 🌱 I’m currently learning REACT.JS
 - 💞️ I’m looking to collaborate on ...
