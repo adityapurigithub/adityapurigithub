@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @Aditya Puri<br>- 👀 I’m interested in FULL STACK WEB DEVELOPMENT<br>- 🌱 I’m currently mastering REACT JS and NODE JS<br>- 💞️ I’m looking to collaborate as a Frontend or FullStack Developer<br>- 📫 How to reach me https://www.linkedin.com/in/aditya-puri-a92771202/
+- 👋 Hi, I’m @Aditya Puri<br>- 👀 I’m interested in FULL STACK WEB DEVELOPMENT<br>- 🌱 REACT JS and NODE JS<br>- 💞️ Frontend Developer<br>- 📫 How to reach me https://www.linkedin.com/in/aditya-puri-a92771202/
 
 
 # 💻 Tech Stack:
